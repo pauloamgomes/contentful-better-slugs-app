@@ -9,7 +9,7 @@ It supports most major languages and utilizes the slugify library [https://githu
 
 Check below for a screencast showing it in action:
 
-[![](./docs/app-video-play.gif)](https://www.loom.com/embed/764edc58867c437eafb8293e33c178ec)
+[![](./docs/app-video-play.gif)](https://www.loom.com/share/003934a064134e1f8294c7767dcbb592)
 
 ## 🛠 Setup
 
