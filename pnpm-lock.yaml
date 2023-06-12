@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -12,8 +12,8 @@ dependencies:
     specifier: 4.10.5
     version: 4.10.5(react-dom@17.0.2)(react@17.0.2)
   '@contentful/f36-tokens':
-    specifier: 4.0.1
-    version: 4.0.1
+    specifier: 4.0.2
+    version: 4.0.2
   '@contentful/react-apps-toolkit':
     specifier: 1.2.2
     version: 1.2.2(react@17.0.2)
@@ -373,7 +373,7 @@ packages:
       '@contentful/f36-collapse': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -389,7 +389,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -408,7 +408,7 @@ packages:
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-popover': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       downshift: 6.1.12(react@17.0.2)
@@ -425,7 +425,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
@@ -439,7 +439,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-spinner': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -461,7 +461,7 @@ packages:
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-menu': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
@@ -477,7 +477,7 @@ packages:
       react-dom: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
@@ -518,7 +518,7 @@ packages:
       '@contentful/f36-table': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-tabs': 4.41.1(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-text-link': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
@@ -537,7 +537,7 @@ packages:
       '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -550,7 +550,7 @@ packages:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@emotion/core': 10.3.1(react@17.0.2)
       '@emotion/is-prop-valid': 1.2.1
       csstype: 3.1.2
@@ -566,7 +566,7 @@ packages:
       react-dom: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       dayjs: 1.11.8
       emotion: 10.0.27
       react: 17.0.2
@@ -581,7 +581,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -602,7 +602,7 @@ packages:
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-menu': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -617,7 +617,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -630,7 +630,7 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
@@ -645,7 +645,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
@@ -657,7 +657,7 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
@@ -673,7 +673,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-popover': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
@@ -690,7 +690,7 @@ packages:
       '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@types/react-modal': 3.16.0
       emotion: 10.0.27
@@ -709,7 +709,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -726,7 +726,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-text-link': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@swc/helpers': 0.4.14
       emotion: 10.0.27
@@ -744,7 +744,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-forms': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -762,7 +762,7 @@ packages:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-drag-handle': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -775,7 +775,7 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       '@popperjs/core': 2.11.8
       emotion: 10.0.27
@@ -793,7 +793,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-table': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
@@ -805,7 +805,7 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
@@ -820,7 +820,7 @@ packages:
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -834,7 +834,7 @@ packages:
       react-dom: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@radix-ui/react-tabs': 1.0.4(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -850,15 +850,15 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
     dev: false
 
-  /@contentful/f36-tokens@4.0.1:
-    resolution: {integrity: sha512-NTyMAQcfvhPP8kJgOK5mtjKpErg799iglEb9B45ii4N7aMdph2GNqgv7KBgpogfbTEGBrlKIoH8MUDSV9YNREg==}
+  /@contentful/f36-tokens@4.0.2:
+    resolution: {integrity: sha512-sM2AM/8Qn4K0mm2H14nDJMIYoAUv7+tHGUyGqnXEyOVD/5O9lzLTkELEA9R0UgtPPcTywCYC6aZCCggy/Ezd/g==}
     dev: false
 
   /@contentful/f36-tooltip@4.41.1(react-dom@17.0.2)(react@17.0.2):
@@ -868,7 +868,7 @@ packages:
       react-dom: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       '@popperjs/core': 2.11.8
       csstype: 3.1.2
@@ -884,7 +884,7 @@ packages:
       react: '>=16.8'
     dependencies:
       '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
