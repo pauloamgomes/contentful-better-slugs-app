@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -15,8 +15,8 @@ dependencies:
     specifier: 4.0.1
     version: 4.0.1
   '@contentful/react-apps-toolkit':
-    specifier: 1.2.2
-    version: 1.2.2(react@17.0.2)
+    specifier: 1.2.16
+    version: 1.2.16(@contentful/app-sdk@4.17.2)(react@17.0.2)
   '@sindresorhus/slugify':
     specifier: ^2.2.1
     version: 2.2.1
@@ -902,9 +902,10 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/react-apps-toolkit@1.2.2(react@17.0.2):
-    resolution: {integrity: sha512-ne2JiuirDivZsypwyiX8KYEhY2OPiv5u2h241KtnBLv1vLH7zCH3f3F0RklJrgwF6iTvOeq/kjVr3Va9rUJWdg==}
+  /@contentful/react-apps-toolkit@1.2.16(@contentful/app-sdk@4.17.2)(react@17.0.2):
+    resolution: {integrity: sha512-vx7+T4h+w1XBbn7OfRoXr8YUTtiyRNLaltF2ziM4xMqBryu/3Y71nBbhbxD6NIfOui3QIo3TR9Q5sPTZvGbIVw==}
     peerDependencies:
+      '@contentful/app-sdk': '>=4.0.0'
       react: '>=16.8.0'
     dependencies:
       '@contentful/app-sdk': 4.17.2(contentful-management@10.7.0)
