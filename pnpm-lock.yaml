@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -9,8 +9,8 @@ dependencies:
     specifier: ^4.17.1
     version: 4.17.2(contentful-management@10.7.0)
   '@contentful/f36-components':
-    specifier: 4.10.5
-    version: 4.10.5(react-dom@17.0.2)(react@17.0.2)
+    specifier: 4.48.1
+    version: 4.48.1(react-dom@17.0.2)(react@17.0.2)
   '@contentful/f36-tokens':
     specifier: 4.0.1
     version: 4.0.1
@@ -364,52 +364,52 @@ packages:
       contentful-management: 10.7.0
     dev: false
 
-  /@contentful/f36-accordion@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-YK+D/9hEwR1C5ABlPb/W8NrgDJLehaP0/7IZCiGD6VvRTz888QGHVej8afq4RCtpqRFj+eSV1aJ+EmLVjBSo6w==}
+  /@contentful/f36-accordion@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-ULkC2b1yDVRpsmRvADs64bSYjYlofe/Vawb4etAonlGn/zGi+tBNNcWFxa5rZUTejZ46hRcgP+OKhNJqqLoXLg==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-collapse': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-collapse': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-asset@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-qK6/EAkXNV8d59TeKfgEOMqP3Gt78j1nyvr5PUGr9ZDIyletmfToOBX6F2dYQykLdl4/yIpYVMLyUAM+OdwR2w==}
+  /@contentful/f36-asset@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-KvDkEl9fBh51rt1h7xDBmjcx9yRf3ivjdUosOz5GJDSrPLmOqM8iACvph9yKeDEQp7pKuOQPr/ZCEhsZJNVQqw==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-autocomplete@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-ZgFj0yH+MmRb7jbZHZ1KjUuXYZ3VnyeIqspFG8tSq21dRNFi1NY+uLfm/QxP8so1K/MCfVTyOvlrlwdAjLmsQg==}
+  /@contentful/f36-autocomplete@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-cL/dTzmvZ0uoR1Pc5waR9DrLjnobOPTCw1gWjkSusPWhHJMq+aPDkW0TNgH8wFaLlGKQHJ9vxU8r65vBX/tryA==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-forms': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-popover': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-forms': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-popover': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-skeleton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       downshift: 6.1.12(react@17.0.2)
       emotion: 10.0.27
@@ -417,110 +417,112 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-badge@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-O5jvWWAmoPiiY37hHfsy0jypjhcT1ioYjKnIUymtydq8JA922ETeafxEaRVvsZ57VchENkCapZotQbFZIypd7A==}
+  /@contentful/f36-badge@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-ViFO2QYu6v4XGmvUqOd0k9GemgA+3G8TQZPx+lrRSgcXgi+wFV/OjHUTAFy9JkIbVxJec2zTmMeRxJCBA2gjhQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-button@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-9pJnkd7/KP19jR/tc1YRZaRmS9U3z13sRDYxgGRIxJYOSfMBqmk+L3QyGQvDr2lSFU+wgb4VTA1iOB6lE5CDqw==}
+  /@contentful/f36-button@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-dzSZSKAm3oR/aGcr67/18w7vMiddrp6lysTUMw0lk3JTND4BgoHG4LA69h628bF6kppjCK6AutqGKomNpCDUkg==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-spinner': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-spinner': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-card@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-MApFgw72yJ+VjXoWZ6qNh83DJn1rPmGVTgPHITOoJT1qxpc+otMZchEws9Xo31POYgzdyr7Jo80rwooJ4A64Fw==}
+  /@contentful/f36-card@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-pDOdL6joW7gSiEao7rR/uaWOtsJtUD5MpuoKG9X/WSpBBJAzgV5YpkLmY0U6I8HoFSOU10bH8wU9cHO/pN3VQg==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-asset': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-badge': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-drag-handle': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-menu': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-asset': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-badge': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-drag-handle': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-menu': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-skeleton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-tooltip': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
       truncate: 3.0.0
     dev: false
 
-  /@contentful/f36-collapse@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-cXxWVBTGYKFHmG++PAmQ7jc+JDyrbo9uDCnH71J4CiUr/rNHlTmgSjFyhM8zHoIyKfV0Xk5yeoZ1oUP2NAOZcQ==}
+  /@contentful/f36-collapse@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-nIKVj1IeDXRS56w/9URcNFL2+hmxBz9gRRmaKjMyLMjg0La6ew2T3o658qVIu63cQ4SGYfR/XTK5W8RM2R/nnQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-components@4.10.5(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-uZMl/18Q+BnBXG0hQGThQEv4r10q2VD64GylJ3B7t4FSDtTHEHBwWDsyJgMJw1rWfBEglKNN7RNXa5Mm1I1pxw==}
+  /@contentful/f36-components@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-wDrEAYR18NBi3tk2MGX2ktNoiAC4aGwsJ7SXHH+8HkGx66QOFqtEVfDRr8xEd4eR7YO4M/QzALGj1FbYQ/t1Rg==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@babel/runtime': 7.22.3
-      '@contentful/f36-accordion': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-asset': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-autocomplete': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-badge': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-card': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-collapse': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-copybutton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-datetime': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-drag-handle': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-entity-list': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-forms': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-list': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-menu': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-modal': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-note': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-notification': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-pagination': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-pill': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-popover': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-spinner': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-table': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tabs': 4.41.1(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-text-link': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-accordion': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-asset': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-autocomplete': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-badge': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-card': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-collapse': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-copybutton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-datepicker': 4.48.1(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-datetime': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-drag-handle': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-empty-state': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-entity-list': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-forms': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-list': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-menu': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-modal': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-navbar': 4.1.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-note': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-notification': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-pagination': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-pill': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-popover': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-skeleton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-spinner': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-table': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tabs': 4.48.1(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-text-link': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-tooltip': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       '@types/react': 16.14.22
       '@types/react-dom': 16.9.14
@@ -528,29 +530,29 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-copybutton@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-b5M3HbUQWvEvCv/Kqsw1mKwRf+QXeXLYk7e7Tes2axRkvF9G3oCkoH/MfIt/uqiuBGp/0sg04VJolk4M9lxRgQ==}
+  /@contentful/f36-copybutton@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-MiOedQqzXZSiWcjO85lA0yEso/dT2TXDdHNVl/VOzOG5ioWwTHmAn9JxwOqKrF6f2Q6owCi190KPd/KVUeXkdQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-tooltip': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-core@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-SQNFTNqlnazjuSE3jJNNzYqnL07tJOSXsQZewlj+v3YfAg4nmKYnNG1CouraLW/qZFYgHNrGKdHkjBCBZh7rlw==}
+  /@contentful/f36-core@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-wpWYSWu+vYpUz3ehDfCsskRty6c0LhoDv8FvnHhRx+hWqCDzYfGXmxaw80OTR6aia5I+BWUAK0sQ+mOJUkQyZA==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-tokens': 4.0.2
       '@emotion/core': 10.3.1(react@17.0.2)
       '@emotion/is-prop-valid': 1.2.1
       csstype: 3.1.2
@@ -559,139 +561,175 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-datetime@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-XmCVoF8yrbxTaS3bIHppOcyF5u6gUWHsJp1o7jRKByWwv5m5XOrf/8rrR1FnZEAC9+ZLB1/A62gsaex4Kzvj5A==}
+  /@contentful/f36-datepicker@4.48.1(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-MoRfRDHMcn5Ir0Imq607ZCDbBsGgydZOm07VHH5vlAz9EuEg/fRfkTig5A7I4arlDl5AkiETBuiHHmfrqvFkpQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-forms': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-popover': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      date-fns: 2.30.0
+      emotion: 10.0.27
+      react: 17.0.2
+      react-day-picker: 8.8.0(date-fns@2.30.0)(react@17.0.2)
+      react-dom: 17.0.2(react@17.0.2)
+      react-focus-lock: 2.9.5(@types/react@16.14.22)(react@17.0.2)
+    transitivePeerDependencies:
+      - '@types/react'
+    dev: false
+
+  /@contentful/f36-datetime@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-1IJfVhD+rsz7X1UeE14jflngCfWEA2kEG6URA+xFli+4O5NTshjtysM710Oe+198wMWPnqywR4AKkaKWh9Huig==}
+    peerDependencies:
+      react: '>=16.8'
+      react-dom: '>=16.8'
+    dependencies:
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       dayjs: 1.11.8
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-drag-handle@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-ZMvYY6qPg6cDbjSBvTYHZwgEqNu02ksf5Wv4zusBO+cQGiLAU25OqdSQq25ObmL/9hcDLxQO0y/W5adjY/BDRw==}
+  /@contentful/f36-drag-handle@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-6b3UvoqX7k95oYWtHFOX57FezD4HC4PAnYJRNIaPhmETYRXbXron8fgdjQDHVA1x1slKrbNrz0AL7Cw6NBc5lQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-entity-list@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-FkWjmP3NexhkER7ajZHSVY4xPqk50qkQehkosCBnB+QZ97j9gOpG/IsMGlovMnz+ngssGf9sgCjZStGRs6LGYA==}
+  /@contentful/f36-empty-state@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-mCX+1dxpgtmp79EovYekIGyUpeCdAslG5fcAaUZnU+N7i73Vooh9fRmtGPdmSMvZ2xX85xZ/obrJvvtdxXER6g==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-badge': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-drag-handle': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-menu': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-skeleton': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-forms@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-l2eIRCJGoL7LQScQfRSFMLt9lgzXKxA6x/Y6xHVjTh6CVClt+qu6yh1CiuKlm3924WXPXMssDzZ7AlZZhfuk+A==}
+  /@contentful/f36-entity-list@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-Hpu3DeqqNZ68g1yrWyFjALuEFsNXKCQA0KYv3ofNw/1yXynRBjEC3uqMfuMFRuCg1ALt+q+46khGas1n9LEucg==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-badge': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-drag-handle': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-menu': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-skeleton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-icon@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-h0RDAzEqUMVe+HIakho2/ZNIJtRgxn3pYvyUirVldJk9cA37MOkykDH+nYqSoVR7KioyqfTfOy1Fy5rjPy/SWw==}
+  /@contentful/f36-forms@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-X9ElgR9lYOjGeENlsVs8qgHW7BUff7BAQfNi1LrjLkShZVN0TXuGhET7lAUxJSvtHnDbE+kwYRP20of19lM7wQ==}
+    peerDependencies:
+      react: '>=16.8'
+      react-dom: '>=16.8'
+    dependencies:
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      emotion: 10.0.27
+      react: 17.0.2
+      react-dom: 17.0.2(react@17.0.2)
+    dev: false
+
+  /@contentful/f36-icon@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-I0yRljIlPOMxtUoYjoXBKckEbX8mTOlTsgqpN8N7eWlukhSzrGHPKOxJxKC41hnpM73jxEfIpVx++wqa+8+/HQ==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
     dev: false
 
-  /@contentful/f36-icons@4.25.0(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-PDEvCtoAfP3FF7K+slhOb+LP2MxlUSKQXmRUmtBPXIFz+usZC4FOGQAMWKF9kdnDEq9C/kaYiCzPkZ6BJC4hmg==}
+  /@contentful/f36-icons@4.27.0(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-sEQ5xorjQ2zMOCCv6uljpM+z46Miw5WTa5e1jf0bvRXPWLFYF0hkuQestL/JedObaB3ZEnq0B4NpfI2fslWH+Q==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-tokens': 4.0.1
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-list@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-waboj1lm576TNvWrPB9I85x6g0AmaIXZNRiCGLzgnpwrxvxfTmQjeG2wCEFsEJPp6NkoMiSbFFqGREQUYw5HTg==}
+  /@contentful/f36-list@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-HRyzaU378CrpZe+07e5dTUQFyufSGbRtH8gF5B7KBInOtNJgtFrxYFUfnGkVPaPhXAPGDJ69/vE4oKYAKm01nQ==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
     dev: false
 
-  /@contentful/f36-menu@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-mTb5Eg0DcR3TukicdmyQBMHGX0veLEPv4hu6z4k7vNnvGrXM4zf4+5HO2+F8idN0xTzxbMjdIaGY58AlxnmAQQ==}
+  /@contentful/f36-menu@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-M9Eq2L6p521Hu8m9wFeVQBcIHV+DSHGtStsWYozPS9GiwsFFAbPwgIoGDFuXKPqcyXOPruBGiZLEodfng70PYQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-popover': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-popover': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-modal@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-qy9kOPxw8ySsIva0sET74NGi8RWNbPV+sbtuHSZcyMW7rNZg+j7Yogq7hlyODujPTPHULVA1Pv6cdNPAdShrgQ==}
+  /@contentful/f36-modal@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-xpyZpGmJFO3ah/s3l/oi+jMNkhqfTx9QHdlqY2omwED/sJ36Y6Zy/8xRuWY8JyBL8iOt3mxpN5BAgBHMZPvAFA==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@types/react-modal': 3.16.0
       emotion: 10.0.27
       react: 17.0.2
@@ -699,35 +737,53 @@ packages:
       react-modal: 3.16.1(react-dom@17.0.2)(react@17.0.2)
     dev: false
 
-  /@contentful/f36-note@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-ZOSZbdBldn4bCKA6YfY3Zt7oUwQ0bLfiROBIMEhdxSnu8A6+G5Q91cf4fvlkPeg/iW219vDmmkUeO4Zv/mSxrg==}
+  /@contentful/f36-navbar@4.1.0(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-tFzg4px28dGq2zD+/rKsVmZ684WItZ+xNGI7et6QeAmevwIzifE1JGblJr/BC1Nn2nWLlF0LZn4URekIf7ijkA==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icon': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-menu': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-skeleton': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-notification@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-cPAxbe1L2+A4FQekpqdLZ6DJX3CfeGbxxpN1H+FfeD6f7RvLevCGB0bk/R9yK8+ERoQdjVOio9FtoHYaxRub+g==}
+  /@contentful/f36-note@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-UQrcYFmRURhTgaE4LwKm51z4+EGqU3fRYiubLIpx4DaDUxP3xbCyLGX84TV1vBcfSq2X50Y2+p0fPOPhczOXUQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-text-link': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icon': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      emotion: 10.0.27
+      react: 17.0.2
+      react-dom: 17.0.2(react@17.0.2)
+    dev: false
+
+  /@contentful/f36-notification@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-3YcWRFTvGhS9BcQDkQoA36t5v1SnYEXoesOn/uV6E2+t9T9nr6dCZl7zFLfv0dccjekqolc7r49TM/ieqXBkyQ==}
+    peerDependencies:
+      react: '>=16.8'
+      react-dom: '>=16.8'
+    dependencies:
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-text-link': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       '@swc/helpers': 0.4.14
       emotion: 10.0.27
       react: 17.0.2
@@ -735,47 +791,47 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-pagination@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-0xVMMsRHY+D8Le+iaarBdK5WITYVDmzpHae3KssRpSbkeFvGexLgEbdnA5pE5pg6X8F4nzzt5TES4DdP/eaKVg==}
+  /@contentful/f36-pagination@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-pTB7Q03UtSQysA0xyZ9DcHVE3JUdQ22bM8tDTnkggi77IVhtZ/QStyD7sra9SgXPVVebABrabgDjiXqmRPrW/Q==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-forms': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-forms': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
     dev: false
 
-  /@contentful/f36-pill@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-kJHBgRsnle0HAN/0CBX9kckeH1Cj1TheTVWlkQ+qaHtFY9guGMFLs0FfhiknL34jmNHHAlfRZJHHl3cHCTh6UQ==}
+  /@contentful/f36-pill@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-k831KXqcdrUf6wo3Vl+KTrtpgVKuwYmrMbxP56wmShH28aFpktVDJumSkx4j8WvW5+2dUhBMEGc3bic6cn6qRQ==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-button': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-drag-handle': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-tooltip': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-button': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-drag-handle': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-tooltip': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-popover@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-uICFrR4LdK2AckH176D/4JWtbTU4+6zUL7sB3LMbbnXiVbkTtnNEshiWEm7yKnb7RUOgKa5Mnw5HL0VIIQokaw==}
+  /@contentful/f36-popover@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-HToqqldOBBXyv2P1zX9+Sn9XVhpUvpCcZmj2G1dYavDQ/iAtTOdU2Y1/2KIK3dzHAq+7LS7Ga7OEMuL0Pq6uNA==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       '@popperjs/core': 2.11.8
       emotion: 10.0.27
@@ -785,56 +841,56 @@ packages:
       - react-dom
     dev: false
 
-  /@contentful/f36-skeleton@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-c3dNf2pQS0CsKIKNo3NBx5V1fjpeJQNUn+HNX1rvVkdFZmG/BHxDT1u2vzUJ11ZkDPBHdZXUs0xsHqQFH0+DUA==}
+  /@contentful/f36-skeleton@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-le1HKAdj/rNXkuguG+nsDIRxq5wpoLATG/LPVfiHTKlOYiFC+fKxh7P5+Bqs5mII8clHMvAWz3M8SyjOKsICpw==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-table': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-table': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-spinner@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-PcbbZHHHNQ7GaRa15rk8DnC2MFdTME61XNsMa+RC40ba7jx5kLcYN8rkAZWcZGnK0Fe2+nyKM483OtqootmKMg==}
+  /@contentful/f36-spinner@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-e//5/u6oOg7+XI+uNhc30gbDs5oRhMZXL6t6U+SaS9Nt39b1SGnjw27+7CISjjcBHEVfluUdo9O15sOUc+Z6dQ==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
     dev: false
 
-  /@contentful/f36-table@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-N0oo8VpQe54q1hrAFSGTB71sT0AwwI98RwP9MnZ9dMbxSWLj1UUzGZTY6lwGxolu8nEGH2vzLHAxDC8BaJV8cg==}
+  /@contentful/f36-table@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-UzjH8E9nsDI52wMg3hegnEoYx10nMoUbrp4QE4wYpTKp4BjSi0b94+mc9ryfFojd2vKgcjqqXvycpLxeVyiIXw==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-icons': 4.25.0(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
-      '@contentful/f36-typography': 4.41.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-icons': 4.27.0(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
+      '@contentful/f36-typography': 4.48.1(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
-  /@contentful/f36-tabs@4.41.1(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-BClwUH9KDWK7dtFSGuxnVSc6AUVpdnvU4ghWZZ65pIqi7EooDngLROd15KutER9RxsS642zDMeFTxCOyz+D5iw==}
+  /@contentful/f36-tabs@4.48.1(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-+kBlx5nNFE+DNazY3tqelq2Vx4k7UT0sOh+yCWs/dfYbtCi76We4gYYRWPSGW7Huh1ucvn92yfYnX+FfBJ72QA==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       '@radix-ui/react-tabs': 1.0.4(@types/react-dom@16.9.14)(@types/react@16.14.22)(react-dom@17.0.2)(react@17.0.2)
       emotion: 10.0.27
       react: 17.0.2
@@ -844,13 +900,13 @@ packages:
       - '@types/react-dom'
     dev: false
 
-  /@contentful/f36-text-link@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-R5TD/G4xO5e1kD5Idycd93J89RB0NRYcrMlUcS2gOZZjjRGxrPqM5rU+vMCgWMzPFGmf5GTnMPaSdEJdWZQzWw==}
+  /@contentful/f36-text-link@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-5UoRUd1QHLAhUqV7bumr1e74gspqWdtuLRx92h+dOUqY7mm/bNMA8A9NMwedZyOsDrRG8Ry3eFdy7c7suUjvYQ==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
@@ -861,14 +917,18 @@ packages:
     resolution: {integrity: sha512-NTyMAQcfvhPP8kJgOK5mtjKpErg799iglEb9B45ii4N7aMdph2GNqgv7KBgpogfbTEGBrlKIoH8MUDSV9YNREg==}
     dev: false
 
-  /@contentful/f36-tooltip@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-AGkz5EBpoi9UjGSGCd7rRj7B1LzhlB1GBrn8NofEhwTLdZpzS7sSFehhOVPbSjMO/PdjfrJJizXQNr3Pk9n7vg==}
+  /@contentful/f36-tokens@4.0.2:
+    resolution: {integrity: sha512-sM2AM/8Qn4K0mm2H14nDJMIYoAUv7+tHGUyGqnXEyOVD/5O9lzLTkELEA9R0UgtPPcTywCYC6aZCCggy/Ezd/g==}
+    dev: false
+
+  /@contentful/f36-tooltip@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-vInYz7jpnO9VCYeNtS4iIr2yxQWMR2OjTVW0uE5UMYcKnNpSC4qPxgkw7OtTHuH+lXWvHieUJeM2z9bu3avKOw==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       '@contentful/f36-utils': 4.24.1(react-dom@17.0.2)(react@17.0.2)
       '@popperjs/core': 2.11.8
       csstype: 3.1.2
@@ -878,13 +938,13 @@ packages:
       react-popper: 2.3.0(@popperjs/core@2.11.8)(react-dom@17.0.2)(react@17.0.2)
     dev: false
 
-  /@contentful/f36-typography@4.41.1(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-VzZnEakDsPYIHhrGSmvjtSUQTh3GZVf2KmagQHNUX7NsZ/1W1mY5CFxoug7rpZKbPfncEX7+YzuxJECYfQTRBQ==}
+  /@contentful/f36-typography@4.48.1(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-BBkR13TfR6kqps/qVJeiLq5SQrzoUKNRD5iu2tl6AOe12T34ii/FEwLePzXMg5l9JpFchYSL9kKgHzKHQWgjSQ==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@contentful/f36-core': 4.41.1(react-dom@17.0.2)(react@17.0.2)
-      '@contentful/f36-tokens': 4.0.1
+      '@contentful/f36-core': 4.48.1(react-dom@17.0.2)(react@17.0.2)
+      '@contentful/f36-tokens': 4.0.2
       emotion: 10.0.27
       react: 17.0.2
     transitivePeerDependencies:
@@ -1787,6 +1847,13 @@ packages:
   /csstype@3.1.2:
     resolution: {integrity: sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==}
 
+  /date-fns@2.30.0:
+    resolution: {integrity: sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==}
+    engines: {node: '>=0.11'}
+    dependencies:
+      '@babel/runtime': 7.22.3
+    dev: false
+
   /dayjs@1.11.8:
     resolution: {integrity: sha512-LcgxzFoWMEPO7ggRv1Y2N31hUf2R0Vj7fuy/m+Bg1K8rr+KAs1AEy4y9jd5DXe8pbHgX+srkHNS7TH6Q6ZhYeQ==}
     dev: false
@@ -1855,6 +1922,10 @@ packages:
   /delayed-stream@1.0.0:
     resolution: {integrity: sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==}
     engines: {node: '>=0.4.0'}
+
+  /detect-node-es@1.1.0:
+    resolution: {integrity: sha512-ypdmJU/TbBby2Dxibuv7ZLW3Bs1QEmM7nHjEANfohJLvE0XVujisn1qPJcZxg+qDucsr+bP6fLD1rPS3AhJ7EQ==}
+    dev: false
 
   /dom-accessibility-api@0.5.16:
     resolution: {integrity: sha512-X7BJ2yElsnOJ30pZF4uIIDfBEVgF4XEBxL9Bxhy6dnrm5hkzqmsWHGTiHqRiITNhMyFLyAiWndIJP7Z1NTteDg==}
@@ -2165,6 +2236,13 @@ packages:
 
   /find-root@1.1.0:
     resolution: {integrity: sha512-NKfW6bec6GfKc0SGx1e07QZY9PE99u0Bft/0rzSD5k3sO/vwkVUpDUKVm5Gpp5Ue3YfShPFTX2070tDs5kB9Ng==}
+    dev: false
+
+  /focus-lock@0.11.6:
+    resolution: {integrity: sha512-KSuV3ur4gf2KqMNoZx3nXNVhqCkn42GuTYCX4tXPEwf0MjpFQmNMiN6m7dXaUXgIoivL6/65agoUMg4RLS0Vbg==}
+    engines: {node: '>=10'}
+    dependencies:
+      tslib: 2.5.3
     dev: false
 
   /follow-redirects@1.15.2:
@@ -2818,6 +2896,25 @@ packages:
       react-dom: 17.0.2(react@17.0.2)
     dev: false
 
+  /react-clientside-effect@1.2.6(react@17.0.2):
+    resolution: {integrity: sha512-XGGGRQAKY+q25Lz9a/4EPqom7WRjz3z9R2k4jhVKA/puQFH/5Nt27vFZYql4m4NVNdUvX8PS3O7r/Zzm7cjUlg==}
+    peerDependencies:
+      react: ^15.3.0 || ^16.0.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      '@babel/runtime': 7.22.3
+      react: 17.0.2
+    dev: false
+
+  /react-day-picker@8.8.0(date-fns@2.30.0)(react@17.0.2):
+    resolution: {integrity: sha512-QIC3uOuyGGbtypbd5QEggsCSqVaPNu8kzUWquZ7JjW9fuWB9yv7WyixKmnaFelTLXFdq7h7zU6n/aBleBqe/dA==}
+    peerDependencies:
+      date-fns: ^2.28.0
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      date-fns: 2.30.0
+      react: 17.0.2
+    dev: false
+
   /react-dom@17.0.2(react@17.0.2):
     resolution: {integrity: sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA==}
     peerDependencies:
@@ -2830,6 +2927,25 @@ packages:
 
   /react-fast-compare@3.2.2:
     resolution: {integrity: sha512-nsO+KSNgo1SbJqJEYRE9ERzo7YtYbou/OqjSQKxV7jcKox7+usiUVZOAC+XnDOABXggQTno0Y1CpVnuWEc1boQ==}
+    dev: false
+
+  /react-focus-lock@2.9.5(@types/react@16.14.22)(react@17.0.2):
+    resolution: {integrity: sha512-h6vrdgUbsH2HeD5I7I3Cx1PPrmwGuKYICS+kB9m+32X/9xHRrAbxgvaBpG7BFBN9h3tO+C3qX1QAVESmi4CiIA==}
+    peerDependencies:
+      '@types/react': ^16.8.0 || ^17.0.0 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+    dependencies:
+      '@babel/runtime': 7.22.3
+      '@types/react': 16.14.22
+      focus-lock: 0.11.6
+      prop-types: 15.8.1
+      react: 17.0.2
+      react-clientside-effect: 1.2.6(react@17.0.2)
+      use-callback-ref: 1.3.0(@types/react@16.14.22)(react@17.0.2)
+      use-sidecar: 1.1.2(@types/react@16.14.22)(react@17.0.2)
     dev: false
 
   /react-is@16.13.1:
@@ -3151,6 +3267,37 @@ packages:
       escalade: 3.1.1
       picocolors: 1.0.0
     dev: true
+
+  /use-callback-ref@1.3.0(@types/react@16.14.22)(react@17.0.2):
+    resolution: {integrity: sha512-3FT9PRuRdbB9HfXhEq35u4oZkvpJ5kuYbpqhCfmiZyReuRgpnhDlbr2ZEnnuS0RrJAPn6l23xjFg9kpDM+Ms7w==}
+    engines: {node: '>=10'}
+    peerDependencies:
+      '@types/react': ^16.8.0 || ^17.0.0 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+    dependencies:
+      '@types/react': 16.14.22
+      react: 17.0.2
+      tslib: 2.5.3
+    dev: false
+
+  /use-sidecar@1.1.2(@types/react@16.14.22)(react@17.0.2):
+    resolution: {integrity: sha512-epTbsLuzZ7lPClpz2TyryBfztm7m+28DlEv2ZCQ3MDr5ssiwyOwGH/e5F9CkfWjJ1t4clvI58yF822/GUkjjhw==}
+    engines: {node: '>=10'}
+    peerDependencies:
+      '@types/react': ^16.9.0 || ^17.0.0 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+    dependencies:
+      '@types/react': 16.14.22
+      detect-node-es: 1.1.0
+      react: 17.0.2
+      tslib: 2.5.3
+    dev: false
 
   /util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
