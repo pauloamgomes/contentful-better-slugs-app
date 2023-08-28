@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -44,11 +44,11 @@ devDependencies:
     specifier: 18.0.3
     version: 18.0.3
   '@types/react':
-    specifier: 17.0.47
-    version: 17.0.47
+    specifier: 17.0.64
+    version: 17.0.64
   '@types/react-dom':
-    specifier: 17.0.17
-    version: 17.0.17
+    specifier: 17.0.20
+    version: 17.0.20
   '@vitejs/plugin-react':
     specifier: 1.3.2
     version: 1.3.2
@@ -1337,7 +1337,7 @@ packages:
     dependencies:
       '@babel/runtime': 7.22.3
       '@testing-library/dom': 8.20.0
-      '@types/react-dom': 17.0.17
+      '@types/react-dom': 17.0.20
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: true
@@ -1400,16 +1400,16 @@ packages:
       '@types/react': 16.14.22
     dev: false
 
-  /@types/react-dom@17.0.17:
-    resolution: {integrity: sha512-VjnqEmqGnasQKV0CWLevqMTXBYG9GbwuE6x3VetERLh0cq2LTptFE73MrQi2S7GkKXCf2GgwItB/melLnxfnsg==}
+  /@types/react-dom@17.0.20:
+    resolution: {integrity: sha512-4pzIjSxDueZZ90F52mU3aPoogkHIoSIDG+oQ+wQK7Cy2B9S+MvOqY0uEA/qawKz381qrEDkvpwyt8Bm31I8sbA==}
     dependencies:
-      '@types/react': 17.0.47
+      '@types/react': 17.0.64
     dev: true
 
   /@types/react-modal@3.16.0:
     resolution: {integrity: sha512-iphdqXAyUfByLbxJn5j6d+yh93dbMgshqGP0IuBeaKbZXx0aO+OXsvEkt6QctRdxjeM9/bR+Gp3h9F9djVWTQQ==}
     dependencies:
-      '@types/react': 17.0.47
+      '@types/react': 17.0.64
     dev: false
 
   /@types/react@16.14.22:
@@ -1420,8 +1420,8 @@ packages:
       csstype: 3.1.2
     dev: false
 
-  /@types/react@17.0.47:
-    resolution: {integrity: sha512-mk0BL8zBinf2ozNr3qPnlu1oyVTYq+4V7WA76RgxUAtf0Em/Wbid38KN6n4abEkvO4xMTBWmnP1FtQzgkEiJoA==}
+  /@types/react@17.0.64:
+    resolution: {integrity: sha512-IlgbX/vglDTwrCRgad6fTCzOT+D/5C0xwuvrzfuqfhg9gJrkFqAGADpUFlEtqbrP1IEo9QLSbo41MaFfoIu9Aw==}
     dependencies:
       '@types/prop-types': 15.7.5
       '@types/scheduler': 0.16.3
