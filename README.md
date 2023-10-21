@@ -17,7 +17,8 @@ Install the App using by doing the below steps:
 
 1. Create a new Contentful custom App and define the Application Name (e.g. Better Slugs)
 
-2. Download this repo and drag the dist folder into the Bundles upload zone:
+2. Download [dist.zip](https://github.com/pauloamgomes/contentful-better-slugs-app/releases/download/V1.0.1/dist.zip), unzip and add the resulting folder into the Bundles upload zone:
+(or download/clone this repo and use the dist folder):
 
 ![App Bundles Upload](./docs/app-bundles.png)
 
