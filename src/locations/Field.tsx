@@ -59,7 +59,7 @@ const Field = () => {
     models[sdk.ids.contentType]?.patterns?.[defaultLocale];
 
   const parts = pattern
-    ?.split("/")
+    ?.split(/((?<!field):|\/|-)/)
     ?.map((part: string) => part.replace(/(\[|\])/gi, "").trim());
 
   const fields: string[] = [];
@@ -146,7 +146,14 @@ const Field = () => {
     locale: string
   ) => {
     const defaultLocale = sdk.locales.default;
-    const referenceLocale = sdk.entry.fields[fieldName].locales.includes(locale)
+    console.log(fieldName, sdk.entry.fields[fieldName]);
+    if (!sdk.entry.fields[fieldName]) {
+      return "";
+    }
+
+    const referenceLocale = sdk.entry.fields[fieldName]?.locales.includes(
+      locale
+    )
       ? locale
       : defaultLocale;
 
@@ -244,13 +251,18 @@ const Field = () => {
         );
       } else if (part === "id") {
         slugParts.push(sdk.entry.getSys().id);
-      } else {
+      } else if (part !== "/") {
         slugParts.push(part);
       }
     }
 
     sdk.entry.fields[sdk.field.id].setValue(
-      slugParts.join("/").replace("//", "/").replace(/\/$/, ""),
+      slugParts
+        .join("/")
+        .replace(/\/\//g, "/")
+        .replace(/\/$/, "")
+        .replace(/\/-\//g, "-")
+        .replace(/\/:\//g, ":"),
       locale
     );
   };
